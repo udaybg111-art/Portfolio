@@ -33,45 +33,6 @@ uday-portfolio/
 
 ---
 
-## 💻 How to View Locally
-
-### Method 1: Instant Browser Launch (Easiest)
-Simply double-click `index.html` in your file explorer, or right-click and open with Chrome, Edge, Brave, or Firefox.
-
-### Method 2: Local Python Server (Recommended)
-Open PowerShell or Terminal inside the `uday-portfolio` folder and run:
-
-```bash
-python -m http.server 3000
-```
-
-Then visit [http://localhost:3000](http://localhost:3000) in your web browser.
-
----
-
-## 🌐 Free 1-Click Deployment Options
-
-### 1. GitHub Pages (Free with your custom URL)
-1. Initialize a git repository:
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial portfolio commit"
-   ```
-2. Create a repository on GitHub (e.g. `uday-portfolio` or `<your-username>.github.io`).
-3. Push your code:
-   ```bash
-   git remote add origin https://github.com/<your-username>/uday-portfolio.git
-   git branch -M main
-   git push -u origin main
-   ```
-4. In your GitHub repository, go to **Settings > Pages > Branch: `main` > Save**. Your site is live!
-
-### 2. Netlify / Vercel (Instant Drag & Drop)
-1. Go to [Netlify Drop](https://app.netlify.com/drop).
-2. Drag and drop the `uday-portfolio` folder directly into the browser.
-3. Your site is deployed in 10 seconds with a free SSL certificate!
-
 ---
 
 ## 👤 Personal Information Configured
